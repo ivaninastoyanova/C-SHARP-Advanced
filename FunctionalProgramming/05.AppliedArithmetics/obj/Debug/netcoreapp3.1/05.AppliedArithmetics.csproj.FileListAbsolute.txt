@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.exe
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.deps.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.pdb
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.pdb

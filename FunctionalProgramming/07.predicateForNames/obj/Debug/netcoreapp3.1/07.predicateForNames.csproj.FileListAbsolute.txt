@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\obj\Debug\netcoreapp3.1\07.predicateForNames.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\obj\Debug\netcoreapp3.1\07.predicateForNames.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\obj\Debug\netcoreapp3.1\07.predicateForNames.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.exe
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.deps.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\bin\Debug\netcoreapp3.1\07.predicateForNames.pdb
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\obj\Debug\netcoreapp3.1\07.predicateForNames.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\07.predicateForNames\obj\Debug\netcoreapp3.1\07.predicateForNames.pdb

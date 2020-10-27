@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.exe
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.deps.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.pdb
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.pdb

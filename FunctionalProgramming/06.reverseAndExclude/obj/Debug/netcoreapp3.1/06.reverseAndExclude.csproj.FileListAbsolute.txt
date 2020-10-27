@@ -1,0 +1,10 @@
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.exe
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.deps.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\bin\Debug\netcoreapp3.1\06.reverseAndExclude.pdb
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\obj\Debug\netcoreapp3.1\06.reverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\obj\Debug\netcoreapp3.1\06.reverseAndExclude.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\obj\Debug\netcoreapp3.1\06.reverseAndExclude.dll
+C:\Users\Иванина Стоянова\source\repos\functionalProgramming\06.reverseAndExclude\obj\Debug\netcoreapp3.1\06.reverseAndExclude.pdb
