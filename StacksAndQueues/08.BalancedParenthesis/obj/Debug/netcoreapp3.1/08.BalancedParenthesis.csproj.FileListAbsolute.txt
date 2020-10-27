@@ -1,0 +1,2 @@
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfo.cs

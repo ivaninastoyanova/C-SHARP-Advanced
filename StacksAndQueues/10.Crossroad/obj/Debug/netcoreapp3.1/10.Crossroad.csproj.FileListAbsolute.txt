@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.exe
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.deps.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.dll
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\bin\Debug\netcoreapp3.1\10.Crossroad.pdb
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\obj\Debug\netcoreapp3.1\10.Crossroad.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\obj\Debug\netcoreapp3.1\10.Crossroad.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\obj\Debug\netcoreapp3.1\10.Crossroad.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\obj\Debug\netcoreapp3.1\10.Crossroad.dll
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\10.Crossroad\obj\Debug\netcoreapp3.1\10.Crossroad.pdb

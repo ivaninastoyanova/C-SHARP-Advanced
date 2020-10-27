@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.exe
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.deps.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.dll
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\bin\Debug\netcoreapp3.1\12.CupsandBottles.pdb
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\obj\Debug\netcoreapp3.1\12.CupsandBottles.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\obj\Debug\netcoreapp3.1\12.CupsandBottles.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\obj\Debug\netcoreapp3.1\12.CupsandBottles.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\obj\Debug\netcoreapp3.1\12.CupsandBottles.dll
+C:\Users\Иванина Стоянова\source\repos\stackAndQueue\12.CupsandBottles\obj\Debug\netcoreapp3.1\12.CupsandBottles.pdb
