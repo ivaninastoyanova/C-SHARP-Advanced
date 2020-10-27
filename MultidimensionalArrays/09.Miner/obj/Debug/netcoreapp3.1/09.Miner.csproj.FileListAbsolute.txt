@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.exe
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.deps.json
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.dll
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.pdb
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.dll
+C:\Users\Иванина Стоянова\source\repos\MultidimensionalArrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.pdb
