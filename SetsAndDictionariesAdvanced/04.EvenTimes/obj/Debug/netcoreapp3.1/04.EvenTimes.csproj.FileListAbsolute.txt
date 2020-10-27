@@ -1,0 +1,11 @@
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csprojAssemblyReference.cache
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Иванина Стоянова\source\repos\setsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
